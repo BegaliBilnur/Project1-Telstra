@@ -26,7 +26,7 @@ This repository contains documentation and resources related to our response to 
       - Present analysis findings in a concise email to enable swift development of firewall rules for mitigation.
 
 ### 3. (Technical) Mitigate the Malware Attack
-- Description: Utilize Python to develop a firewall rule aimed at mitigating the attack. Test the rule's effectiveness using `test_requests.py` and ensure minimal changes for review.
+- Description: Utilize Python to develop a firewall rule aimed at mitigating the attack.
 - Procedure:
    1. **Develop Firewall Rule**:
       - Create a firewall rule using Python within the `firewall_server.py` file.
